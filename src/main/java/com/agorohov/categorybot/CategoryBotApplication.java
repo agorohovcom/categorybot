@@ -9,5 +9,4 @@ public class CategoryBotApplication {
     public static void main(String[] args) {
         SpringApplication.run(CategoryBotApplication.class, args);
     }
-
 }
